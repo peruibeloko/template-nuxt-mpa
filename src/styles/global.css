@@ -1,0 +1,20 @@
+* {
+  background-color: transparent;
+  color: var(--color__text);
+}
+
+html,
+body,
+div#__nuxt {
+  min-height: 100vh;
+}
+
+html {
+  background-color: var(--color__background);
+}
+
+div#__nuxt {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
