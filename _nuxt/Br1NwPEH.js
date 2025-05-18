@@ -1,0 +1,1 @@
+import{u as e}from"./C76n1o3S.js";import{_ as s,c as o,o as r}from"./CZhWv_qA.js";const t={__name:"servicos",setup(a){return e({title:"Serviços"}),(c,_)=>(r(),o("h1",null,"Serviços"))}},i=s(t,[["__scopeId","data-v-a079e508"]]);export{i as default};

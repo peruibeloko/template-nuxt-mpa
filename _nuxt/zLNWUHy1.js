@@ -1,0 +1,1 @@
+import{u as t}from"./C76n1o3S.js";import{_ as s,c as a,a as o,F as n,o as r}from"./CZhWv_qA.js";const l={__name:"index",setup(d){return t({title:"Home"}),(m,e)=>(r(),a(n,null,[e[0]||(e[0]=o("h1",null,"Home",-1)),e[1]||(e[1]=o("p",null,"esse é o conteúdo do site",-1))],64))}},_=s(l,[["__scopeId","data-v-fe7d9b98"]]);export{_ as default};

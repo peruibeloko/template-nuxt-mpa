@@ -1,0 +1,1 @@
+import{u as t}from"./C76n1o3S.js";import{_ as o,c as a,o as e}from"./CZhWv_qA.js";const c={__name:"contato",setup(n){return t({title:"Contato"}),(s,_)=>(e(),a("h1",null,"Contato"))}},l=o(c,[["__scopeId","data-v-82b62f69"]]);export{l as default};
