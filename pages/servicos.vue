@@ -1,9 +1,11 @@
 <template>
-  <h1>Contato</h1>
+  <h1>Serviços</h1>
 </template>
+
 <script setup>
 useHead({
-  title: 'Contato'
-})
+  title: 'Serviços'
+});
 </script>
+
 <style scoped src="../styles/page.css" />
