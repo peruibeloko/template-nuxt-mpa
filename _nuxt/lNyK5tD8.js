@@ -1,0 +1,1 @@
+import{u as e}from"./Ck-7-C9j.js";import{_ as o,c as s,o as r}from"./D4CMSYj7.js";const t={__name:"sobre-nos",setup(a){return e({title:"Sobre Nós"}),(_,c)=>(r(),s("h1",null,"Sobre nós"))}},l=o(t,[["__scopeId","data-v-ae9e5809"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{u as t}from"./Ck-7-C9j.js";import{_ as s,c as a,a as o,F as n,o as r}from"./D4CMSYj7.js";const l={__name:"index",setup(m){return t({title:"Home"}),(p,e)=>(r(),a(n,null,[e[0]||(e[0]=o("h1",null,"Home",-1)),e[1]||(e[1]=o("p",null,"esse é o conteúdo do site",-1))],64))}},_=s(l,[["__scopeId","data-v-3eebb791"]]);export{_ as default};
